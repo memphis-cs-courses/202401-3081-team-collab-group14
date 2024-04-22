@@ -9,4 +9,7 @@ Rails.application.routes.draw do
   # root "posts#index"
   root 'pages#index'
   get 'meprz', to: 'pages#meprz', as: 'meprz'
+  get 'alexpavicic', to: 'pages#alexpavicic', as: 'alexpavicic'
+  get 'amaerlide', to: 'pages#amaerlide', as: 'amaerlide'
+  get 'evannavel', to: 'pages#evannavel', as: 'evannavel'
 end

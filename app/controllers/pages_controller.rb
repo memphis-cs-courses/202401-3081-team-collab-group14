@@ -4,4 +4,13 @@ class PagesController < ApplicationController
 
   def meprz
   end
+
+  def amaerlide
+  end
+
+  def alexpavicic
+  end
+
+  def evannavel
+  end
 end
