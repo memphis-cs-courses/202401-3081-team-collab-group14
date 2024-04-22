@@ -11,5 +11,6 @@ Rails.application.routes.draw do
   
   get 'alexpavicic', to: 'pages#alexpavicic', as: 'alexpavicic'
 
+  get 'amaerlide', to: 'pages#amaerlide', as: 'amaerlide'
   get 'evannavel', to: 'pages#evannavel', as: 'evannavel'
 end
