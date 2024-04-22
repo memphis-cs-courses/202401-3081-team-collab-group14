@@ -5,3 +5,6 @@ class PagesController < ApplicationController
   def alexpavicic
   end
 end
+
+def evannavel
+end

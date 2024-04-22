@@ -10,4 +10,6 @@ Rails.application.routes.draw do
   root 'pages#index'
   
   get 'alexpavicic', to: 'pages#alexpavicic', as: 'alexpavicic'
+
+  get 'evannavel', to: 'pages#evannavel', as: 'evannavel'
 end
