@@ -7,3 +7,6 @@ class PagesController < ApplicationController
   end
 
 end
+
+def evannavel
+end
